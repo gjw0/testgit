@@ -10,5 +10,9 @@ public class AA {
 	public void say() {
 		System.out.println("aaa");
 	}
+	
+	public void say2() {
+		System.out.println("bbb");
+	}
 
 }
