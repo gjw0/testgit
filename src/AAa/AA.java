@@ -6,5 +6,9 @@ public class AA {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void say() {
+		System.out.println("aaa");
+	}
 
 }
